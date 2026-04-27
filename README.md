@@ -9,7 +9,7 @@ A beautiful, responsive web application that allows users to browse, search, fil
 
 ## ✨ Features
 
-### ✅ Mandatory Features (All Completed)
+### ✅ Features 
 
 - **Data Fetching** - Fetches Pokémon data from the official PokéAPI
 - **Responsive Grid Layout** - Displays Pokémon in a responsive grid that works on mobile, tablet, and desktop
