@@ -5,7 +5,7 @@ A beautiful, responsive web application that allows users to browse, search, fil
 
 ## 🌐 Live Demo
 
-[View Live Demo](#) *(Add your deployed URL here after hosting)*
+ https://parvathy-coderx.github.io/Pokedex-Lite/
 
 ## ✨ Features
 
